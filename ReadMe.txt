@@ -1,9 +1,0 @@
-答案文件夹中包含了：
-1.代码结果截图
-2.地图绘制的多边形和四个点的位置截图，文件test.jason中存放了对应代码
-3.源代码中执行PolygonPointCheack的main方法即可得到结果
-4.ultils包封装了工具类，解析数据和数据结构转换在DataParser类中，判断点是否在多边形内在CheackTools类中，ResourceLoader类用来加载文件
-
-时间原因，二三部分虚拟机环境配置来不及配置，只完成了第一部分。
-
-剔除敏感信息后，项目和jar放在GitHub上面了
